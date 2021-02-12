@@ -1,0 +1,5 @@
+{
+    "baseUrlPath": "/api/",
+    "publicPath": "",
+    "wetherPath": "http://121.40.242.176:9191/api/Weather/"
+}
